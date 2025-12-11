@@ -3,7 +3,7 @@
 
   
 
-This repository contains code and data for my article "[Building a Multilingual Medical Dictionary as a Graph Database](https://medium.com/@dgg32/graph-visualization-for-duckpgq-e6a551d11b94)".
+This repository contains code and data for my article "[Building a Multilingual Medical Dictionary as a Graph Database](https://medium.com/@dgg32/building-a-multilingual-medical-dictionary-as-a-graph-database-e9cdc579123d)".
 
 
 
