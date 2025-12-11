@@ -1,0 +1,5 @@
+https://www.nhi.gov.tw/ch/cp-6071-469da-3051-1.html
+
+
+
+https://github.com/PEDSnet/Data_Models_Public/blob/master/PEDSnet/docs/Conventions%20Docs/v6.0_PEDSnet_CDM_ETL_Conventions.md
